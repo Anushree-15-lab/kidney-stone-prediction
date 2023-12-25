@@ -38,7 +38,7 @@ def predict():
     output = round(prediction[0])
 
     if (output == 1):
-        predictions = "You have Kideny Stones!!🥺"
+        predictions = "You have Kidney Stones!!🥺"
     else:
         predictions = "Don't Worry you don't have stones😊"
 
